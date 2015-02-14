@@ -15,7 +15,7 @@
         <meta name="description" content="File Upload widget with multiple file selection, drag&amp;drop support, progress bar and preview images for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.">
         <meta name="viewport" content="width=device-width">
         <!-- Bootstrap CSS Toolkit styles -->
-        <link rel="stylesheet" href="http://blueimp.github.com/cdn/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
         <!-- Generic page styles -->
         <link rel="stylesheet" href="css/style.css">
         <!-- Bootstrap styles for responsive website layout, supporting different screen sizes -->
